@@ -1,0 +1,50 @@
+body {
+	font-family: "palatino linotype", "book antiqua", palatino, serif;
+	font-size: 250%;
+	color: #2c3e50;
+}
+.container {
+	width: 100%;
+	margin: 2em auto;
+}
+img {
+	width: 100%
+}
+body{
+background-color : black ;
+background-image : url(разлом.jpeg);
+background-attachment: fixed ;
+background-size: 100%
+}
+H1 {
+border-width: 8px;
+border-style: thin;
+border-style: ridge;
+border-color: black;
+text-align:center;
+color: black ;
+background-color :#AB69E8 ;
+text-indent: 0%
+}
+p {
+border-width: 8px;
+border-style: thin;
+border-style: double;
+border-color: black;
+text-align:left;
+color: black ;
+background-color :#AB69E8 ;
+text-indent: 0%
+}
+.box1 {
+box-shadow:50%;
+width:200px;
+height:20px;
+border:10px solid red;
+background-color:orange;
+}
+
+
+}
+
+
